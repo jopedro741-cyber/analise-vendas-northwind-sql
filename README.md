@@ -143,4 +143,4 @@ Durante as análises foi possível identificar:
 **João Pedro Silva**  
 Estudante de Análise e Desenvolvimento de Sistemas com foco em **Análise de Dados, SQL, Python e Business Intelligence**.
 
-📎 Conecte-se comigo no LinkedIn
+📎 Conecte-se comigo no LinkedIn: https://www.linkedin.com/in/joaopedrofs/
