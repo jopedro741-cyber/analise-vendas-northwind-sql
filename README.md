@@ -103,20 +103,16 @@ Criação de uma tabela analítica pronta para uso no Power BI.
 ## 📷 Exemplos do Projeto
 
 ### Dashboard-ready Query
+[Dashboard Query](fquery14_git4)
 
-![Dashboard Query](imagens/dashboard-ready-query.png)
 
-### Clientes com Maior Receita
+### ticket médio de pedidos
 
-![Clientes Receita](imagens/clientes-maior-receita.png)
+![ticket médio](fquery5_git1)
 
 ### Categoria com Maior Faturamento
 
-![Categorias](imagens/categoria-maior-faturamento.png)
-
-### Ticket Médio dos Pedidos
-
-![Ticket Médio](imagens/ticket-medio-pedido.png)
+![Categorias](fquery8_git3)
 
 ---
 
